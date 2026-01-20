@@ -1,1 +1,1 @@
-print"the world of AI")
+print("the world of AI with new technology")
